@@ -1,8 +1,13 @@
-Hello there, In this repository one can find all solutions for coding bat python problems. 
+#Hello there, In this repository one can find all solutions for coding bat python problems. 
 
-Coding Bat is a popular online platform designed to help programmers practice and improve their Python skills by solving a variety of coding challenges, mainly for BEGINNERS.
+##Coding Bat is a popular online platform designed to help programmers practice and improve their Python skills by solving a variety of coding challenges, mainly for BEGINNERS.
+https://codingbat.com/python
+
+
 
 Here's a breakdown of CodingBat Python problems:
+
+
 
 **Structure**:
 
@@ -13,6 +18,8 @@ Problem Types:
 Each problem presents a specific coding challenge with a clear description and expected output.
 Problems range from basic tasks like manipulating strings and numbers to more complex algorithms and data structures.
 
+
+
 **Benefits**:
 
 CodingBat serves as a great platform to:
@@ -21,6 +28,8 @@ Test your problem-solving skills.
 Prepare for coding interviews.
 Learn new Python concepts in a structured manner.
 The platform provides immediate feedback on your submitted solutions, indicating whether they are correct or not.
+
+
 
 
 Overall, CodingBat Python problems are a valuable resource for anyone who wants to learn or improve their Python skills in a fun and interactive way.
