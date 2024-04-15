@@ -1,7 +1,7 @@
-#Hello there, In this repository one can find all solutions for coding bat python problems. 
+# Hello there, In this repository one can find all solutions for coding bat python problems. 
 
-##Coding Bat is a popular online platform designed to help programmers practice and improve their Python skills by solving a variety of coding challenges, mainly for BEGINNERS.
-https://codingbat.com/python
+## Coding Bat is a popular online platform designed to help programmers practice and improve their Python skills by solving a variety of coding challenges, mainly for BEGINNERS.
+### https://codingbat.com/python
 
 
 
